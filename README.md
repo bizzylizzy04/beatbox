@@ -1,2 +1,2 @@
 # beatbox
-# app made with HTML, CSS, and JavaScript
+App made with HTML, CSS, and JavaScript
